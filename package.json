@@ -1,0 +1,28 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "recipe app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarizaFSD/Forkify-JS-App-project.git"
+  },
+  "author": "Fariza Akhmetova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarizaFSD/Forkify-JS-App-project/issues"
+  },
+  "homepage": "https://github.com/FarizaFSD/Forkify-JS-App-project#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.3",
+    "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "core-js": "^3.32.2",
+    "regenerator-runtime": "^0.14.0",
+    "sass": "^1.66.1"
+  }
+}
