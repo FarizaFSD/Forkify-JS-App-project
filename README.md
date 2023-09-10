@@ -2,4 +2,4 @@
 
 ## Design belongs to Jonas Schmedtmann.
 
-### ✔️ Check it out here:
+### ✔️ Check it out here: fotkify-app-js-project.netlify.app
